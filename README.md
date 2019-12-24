@@ -21,17 +21,15 @@
 Jetpack包含了非常多的优秀的组件,但是目前国内关于Jetpack的文章质量良莠不齐,或者说直接翻译英文的比较多,难以引用到项目中。更别谈改造灵活应用了。
 
 ##### 目前的痛点
-- 包括但不限于以下问题,目前都在网络上都难以搜索到优秀的解决方案。
-1.PagedList如何实现列表增删改？
-2.PagingList分页失败后，如果接管列表分页？
-3.LiveData如何设计一款0反射的事件总线？
-4.Navigation如何自动化构建App 路由导航
-5.Behavior如何接管CoordinatorLayout中组件的布局？
-6.Room数据库如何设计一套缓存框架？
-7.ViewModel如何实现数据共享？
-8.跨页面如何实现视频无缝续播？
-
-- 本人经历了4个月的时间，潜心研究Jetpack,基于本人的理解，使用Jetpack全家桶组件开发了一套前后端打通的高仿短视频应用的APP--皮皮虾。旨在帮助大家在短时间内高效的掌握Jetpack的工作原理和一些搜索不到的用法。
+包括但不限于以下问题,目前都在网络上都难以搜索到优秀的解决方案。本人经历了4个月的时间，潜心研究Jetpack,基于本人的理解，使用Jetpack全家桶组件开发了一套前后端打通的高仿短视频应用的APP--皮皮虾。旨在帮助大家在短时间内高效的掌握Jetpack的工作原理和一些搜索不到的用法。
+- PagedList如何实现列表增删改？
+- PagingList分页失败后，如果接管列表分页？
+- LiveData如何设计一款0反射的事件总线？
+- Navigation如何自动化构建App 路由导航
+- Behavior如何接管CoordinatorLayout中组件的布局？
+- Room数据库如何设计一套缓存框架？
+- ViewModel如何实现数据共享？
+- 跨页面如何实现视频无缝续播？
 
 ##### 项目架构
 ![image.png](https://upload-images.jianshu.io/upload_images/2432544-ea93413a9087d875.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
