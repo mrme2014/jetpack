@@ -8,7 +8,7 @@
 - 谷歌力推一统开发规范,support库停更
 所以我认为只要是安卓开发的同学，都或者或晚的要拥抱Jetpack。
 
-##### Jetpack核心组件介绍
+#### Jetpack核心组件介绍
 - Navigation:强大的APP导航组件,能够为Activity,Fragment,Dialog,FloatWindow提供导航。
 - Paging:强大的分页库组件,能够自动化加载页面初始化和分页(向前分页,向后分页)数据。
 - LiveData:基于生命周期的消息订阅组件,不会发生内存泄漏，不用反注册。
@@ -20,7 +20,7 @@
 - Lifecycles:生命周期管理组件
 Jetpack包含了非常多的优秀的组件,但是目前国内关于Jetpack的文章质量良莠不齐,或者说直接翻译英文的比较多,难以引用到项目中。更别谈改造灵活应用了。
 
-##### 目前的痛点
+#### 目前的痛点
 包括但不限于以下问题,目前都在网络上都难以搜索到优秀的解决方案。本人经历了4个月的时间，潜心研究Jetpack,基于本人的理解，使用Jetpack全家桶组件开发了一套前后端打通的高仿短视频应用的APP--皮皮虾。旨在帮助大家在短时间内高效的掌握Jetpack的工作原理和一些搜索不到的用法。
 - PagedList如何实现列表增删改？
 - PagingList分页失败后，如果接管列表分页？
@@ -31,10 +31,10 @@ Jetpack包含了非常多的优秀的组件,但是目前国内关于Jetpack的�
 - ViewModel如何实现数据共享？
 - 跨页面如何实现视频无缝续播？
 
-##### 项目架构
+#### 项目架构
 ![image.png](https://upload-images.jianshu.io/upload_images/2432544-ea93413a9087d875.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-##### 项目功能
+#### 项目功能
 ![image.png](https://upload-images.jianshu.io/upload_images/2432544-5e8be66a63170552.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 #### 项目效果图
