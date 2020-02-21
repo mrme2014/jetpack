@@ -36,4 +36,5 @@ Jetpack包含了非常多的优秀的组件,但是目前国内关于Jetpack的�
 - 如何实现页面按需预加载？
 
 
-# [立即拥抱Jetpack](https://www.jianshu.com/u/b742453da80a)
+# [立即拥抱Jetpack](https://coding.imooc.com/class/402.html)
+##### [关注慕课手记](https://www.imooc.com/article/299610)
